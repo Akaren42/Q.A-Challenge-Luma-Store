@@ -1,0 +1,27 @@
+{
+    "usuarios": [
+      {
+        "firstname": "Luan",
+        "lastname": "reis",
+        "email": "luan1@gmail.com",
+        "password": "MinhaNova1@s",
+        "password_confirmation":"MinhaNova1@s"
+      },
+      {
+        "firstname": "juaca",
+        "lastname": "silva",
+        "email": "joca@gmail.com",
+        "password": "SenhaForte10",
+        "password_confirmation":"SenhaForte10"
+     },
+      {
+      "firstname": "Yuri",
+      "lastname": "matias",
+      "email":"yuri@gmail.com",
+      "password": "iurymatiasSete@1",
+      "password_confirmation":"iurymatiasSete@1"
+     }
+    
+    ]
+      
+}
